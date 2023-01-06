@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  font-family: 'Work Sans';
+}
+/* Header section */
+.header{
+  background-image: url(/images/banner/banner1.png);
+  height: 809px;
+}
+.header-banner{
+  text-align: right;
+  padding: 216px 210px 167px 845px;
+  padding-top: 216px;
+}
+.banner-title{
+  font-size: 64px;
+  font-weight: 700;
+  margin-bottom: 24px;
+}
+.banner-description{
+  margin-bottom: 32px;
+}
+.btn-primary{
+  background-color: tomato;
+  color: white;
+  font-size: 20px;
+  height: 64px;
+  padding: 20px 27px;
+  border-radius: 5px;
+  border: 0;
+}
+/* Failure section */
+.failure-section{
+  display: flex;
+  width: 1072px;
+  margin: 0 auto;
+  align-items: center;
+}
+.my-failure{
+  padding-top: 120px;
+}
+.failure-info{
+  padding-left: 87px;
+}
+.failure-title{
+  font-weight: 700;
+  font-size: 40px;
+  padding-bottom: 24px;
+}
+.failure-description{
+  line-height: 27px;
+  padding-bottom: 16px;
+}
+.failure-items{
+  line-height: 35px;
+}
+.failure-items li{
+  list-style-type:lower-greek;
+}
