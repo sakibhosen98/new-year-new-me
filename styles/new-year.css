@@ -155,6 +155,10 @@
 .contact-title{
   font-size: 25px;
   font-weight: 600;
+  padding-bottom: 20px;
+}
+.footer-email{
+  padding-bottom: 20px;
 }
 input{
   padding: 21px 157px 22px 21px;
