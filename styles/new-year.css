@@ -4,7 +4,8 @@
 }
 /* Header section */
 .header{
-  background-image: url(./images/banner/banner1.png);
+  background-image: url('/images/banner/banner1.png');
+  width: 100%;
   height: 809px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -90,18 +91,20 @@
 }
 /* gradient section */
 .gradient-container{
-  padding-bottom: 120px;
+  /* width:1140px;
+  height: 300px; */
 }
 .gradient-design{
-  width: 1140px;
+  width:1140px;
   height: 300px;
-  margin: 0 auto;
   background-image: linear-gradient(to right,#387422ed, #15141517), url(/images/watch.png);
+  margin: 0 auto;
 }
 
 /* last section start */
 .last-section-contaner{
   display: flex;
+  padding-top: 65px;
   padding-bottom: 40px;
 }
 .last-section-info{
