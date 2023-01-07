@@ -6,6 +6,8 @@
 .header{
   background-image: url(/images/banner/banner1.png);
   height: 809px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .header-banner{
   text-align: right;
@@ -18,7 +20,7 @@
   margin-bottom: 24px;
 }
 .banner-description{
-  margin-bottom: 32px;
+  padding-bottom: 53px;
 }
 .btn-primary{
   background-color: tomato;
@@ -86,9 +88,18 @@
   font-size: 25px;
   padding-top: 16px;
 }
-
+/* gradient section */
+.gradient-container{
+  padding-bottom: 120px;
+}
+.gradient-design{
+  width: 1140px;
+  height: 300px;
+  margin: 0 auto;
+  background-image: linear-gradient(to right,#387422ed, #15141517), url(/images/watch.png);
+}
 /* Footer start */
-.footer-section{
+.footer-container{
   display: flex;
   background-color:  #151414;
   color: white;
