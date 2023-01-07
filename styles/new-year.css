@@ -97,7 +97,7 @@
 .gradient-design{
   width:1140px;
   height: 300px;
-  background-image: linear-gradient(to right,#387422ed, #15141517), url("./images/watch.png");
+  background-image: linear-gradient(to right,#387422ed, #15141517), url("../images/watch.png");
   margin: 0 auto;
 }
 
