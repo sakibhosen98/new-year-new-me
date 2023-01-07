@@ -98,6 +98,25 @@
   margin: 0 auto;
   background-image: linear-gradient(to right,#387422ed, #15141517), url(/images/watch.png);
 }
+
+/* last section start */
+.last-section-contaner{
+  display: flex;
+  padding-bottom: 40px;
+}
+.last-section-info{
+  padding: 50px 130px;
+}
+.last-section-title{
+  font-size: 40px;
+  padding-bottom: 16px;
+}
+.last-section-des{
+  font-size:18px;
+  line-height:26px;
+  text-align: justify;
+}
+
 /* Footer start */
 .footer-container{
   display: flex;
