@@ -4,7 +4,7 @@
 }
 /* Header section */
 .header{
-  background-image: url(/images/banner/banner1.png);
+  background-image: url(./images/banner/banner1.png);
   height: 809px;
   background-repeat: no-repeat;
   background-size: cover;
