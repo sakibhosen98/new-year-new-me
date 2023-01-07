@@ -6,6 +6,7 @@
 .header{
   background-image: url('../images/banner/banner1.png');
   height: 809px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -27,7 +28,7 @@
   color: white;
   font-size: 20px;
   height: 64px;
-  padding: 20px 27px;
+  padding: 20px 30px;
   border-radius: 5px;
   border: 0;
 }
