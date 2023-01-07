@@ -4,7 +4,7 @@
 }
 /* Header section */
 .header{
-  background-image: url('/images/banner/banner1.png');
+  background-image: url('../images/banner/banner1.png');
   width: 100%;
   height: 809px;
   background-repeat: no-repeat;
@@ -97,7 +97,7 @@
 .gradient-design{
   width:1140px;
   height: 300px;
-  background-image: linear-gradient(to right,#387422ed, #15141517), url(/images/watch.png);
+  background-image: linear-gradient(to right,#387422ed, #15141517), url("./images/watch.png");
   margin: 0 auto;
 }
 
